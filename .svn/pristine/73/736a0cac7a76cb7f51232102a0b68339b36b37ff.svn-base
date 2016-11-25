@@ -1,0 +1,501 @@
+@inproceedings{DBLP:conf/msr/ParninBM11,
+  author    = {Chris Parnin and
+               Christian Bird and
+               Emerson R. Murphy-Hill},
+  title     = {Java generics adoption: how new features are introduced,
+               championed, or ignored},
+  booktitle = {MSR 2011: Proceedings of the 8th International Working Conference on Mining Software Repositories},
+  year      = {2011},
+  pages     = {3-12},
+  ee        = {http://doi.acm.org/10.1145/1985441.1985446},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@article{java_generics_ese,
+year={2012},
+issn={1382-3256},
+journal={Empirical Software Engineering},
+doi={10.1007/s10664-012-9236-6},
+title={Adoption and use of Java generics},
+url={http://dx.doi.org/10.1007/s10664-012-9236-6},
+publisher={Springer US},
+keywords={Generics; Annotations; Java; Languages; Post-mortem analysis},
+author={Parnin, Chris and Bird, Christian and Murphy-Hill, Emerson},
+pages={1-43},
+language={English}
+}
+
+@ARTICLE{Benjamini95,
+    author = {Y Benjamini and Y Hochberg},
+    title = {Controlling the False Discovery Rate: a Practical and Powerful Approach to Multiple Hypothesis Testing},
+    journal = {Journal of the Royal Statistical Society. Series B (Methodological)},
+    year = {1995},
+    volume = {57(1)},
+    pages = {289--300}
+}
+
+
+@misc{TIOBE:online,
+  key = {TIOBE},
+  title = "{TIOBE Programming Community Index}",
+  note = {\texttt{http://www.tiobe.com/index.php/content/ paperinfo/tpci/index.html}},
+  year = {October 2000}
+}
+
+@misc{nrefactory:online,
+  key = {nrefactory},
+  title = "{NRefactory, A parser library for C\# and VB}",
+  note = {\texttt{http://wiki.sharpdevelop.net/NRefactory.ashx}},
+  year = {2013}
+}
+
+@misc{log4net:online,
+  key = {log4net},
+  title = "{Logging Services}",
+  note = {\texttt{http://logging.apache.org}},
+  year = {2007}
+}
+
+@misc{ada_generics,
+  key = {ada_generics},
+  title = "{Jean D. Ichbiah, John G.P. Barnes, Robert J. Firth, and Mike Woodger, Rationale for the Design of the
+Ada Programming Language}",
+  note = {Ada '83 Rationale},
+  year = {1986}
+}
+
+@misc{scimark,
+  key = {SciMark 2.0 benchmark},
+  title = "{Roldan Pozo, Bruce Miller, SciMark 2.0 benchmark, NIST}",
+  note = {\texttt{http://math.nist.gov/scimark2/}},
+  year = {2007}
+}
+
+@misc{generic_collection_recommend,
+  key = {When to Use Generic Collections},
+  title = "{When to Use Generic Collections.}",
+  note = {\texttt{http://msdn.microsoft.com/en-us/library/ms172181(v=vs.80).aspx}},
+  year = {2005}
+}
+
+@misc{bracha04,
+  key = {Generics in the Java Programming Language},
+  title = "{Gilad Bracha, Generics in the Java Programming Language.}",
+  note = {\texttt{http://java.sun.com/j2se/1.5/ pdf/generics-tutorial.pdf}},
+  year = {2004}
+}
+
+
+@BOOK{csharp_in_depth,
+	AUTHOR = "Jon Skeet",
+	YEAR = "2010",
+	TITLE = "C\# in Depth, 2nd edition",
+	PUBLISHER = "Manning Publications",
+	ADDRESS = "Stamford, CT 06901"
+		}
+
+@BOOK{c5_generic,
+	AUTHOR = "Niels Kokholm and Peter Sestoft",
+	TITLE = "The C5 Generic Collection Library for C\# and CLI",
+	PUBLISHER = "IT University Technical Report Series, TR-2006-76",
+	ADDRESS = "IT University of Copenhagen, DK-2300 Copenhagen S, Denmark",
+	YEAR = "January 2006"	
+}
+	
+	
+@BOOK{spearman_rank,
+	AUTHOR = "Jerome Myers and Arnold Well and Robert Frederick Lorch",
+	TITLE = "Research Design and Statistical Analysis, Third Edition",
+	PUBLISHER = "Routledge Academic",
+	YEAR = "2010"	}	
+	
+	
+@inproceedings{Frankel:1993:ERA:260096.260201,
+ author = {Frankel, Michael},
+ title = {Enabling reuse with Ada generics},
+ booktitle = {Proceedings of the tenth annual Washington Ada symposium on Ada: Ada's role in software engineering},
+ series = {WADAS '93},
+ year = {1993},
+ isbn = {0-89791-609-3},
+ location = {McLean, Virginia, United States},
+ pages = {17--30},
+ numpages = {14},
+ url = {http://doi.acm.org/10.1145/260096.260201},
+ doi = {http://doi.acm.org/10.1145/260096.260201},
+ acmid = {260201},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 	
+	
+@article{Chandra:2005:CJC:1040196.1040228,
+ author = {Chandra, Shyamal Suhana and Chandra, Kailash},
+ title = {A comparison of Java and C\#},
+ journal = {J. Comput. Small Coll.},
+ issue_date = {February 2005},
+ volume = {20},
+ issue = {3},
+ month = {February},
+ year = {2005},
+ issn = {1937-4771},
+ pages = {238--254},
+ numpages = {17},
+ url = {http://dl.acm.org/citation.cfm?id=1040196.1040228},
+ acmid = {1040228},
+ publisher = {Consortium for Computing Sciences in Colleges},
+ address = {USA},
+}
+
+@book{halstead_metrics,
+ author = {Halstead, Maurice H.},
+ title = {Elements of Software Science},
+ year = {1977},
+ isbn = {0444002057},
+ publisher = {Elsevier Science Inc.},
+ address = {New York, NY, USA},
+ series = {Operating and programming systems}
+} 
+
+
+
+@book{Effective_Java,
+  author    = {Joshua Bloch},
+  title     = {Effective Java},
+  publisher = {Prentice-Hall PTR, 2nd edition},
+  year      = {2008},
+  ee        = {http://doi.acm.org/10.1145/378795.378797},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@book{C++generics,
+  author    = {Matthew H. Austern},
+  title     = {Generic Programming and the STL: Using and Extending the C++ Standard Template Library},
+  publisher = {Addison-Wesley Professional, 1st edition},
+  year      = {1999},
+  ee        = {http://doi.acm.org/10.1145/378795.378797},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{Garcia03,
+    author = {Garcia, Ronald and Jarvi, Jaakko and Lumsdaine, Andrew and Siek, Jeremy G. and },
+    title = {A Comparative Study of Language Support for Generic Programming},
+    booktitle = {Proceedings of the 18th annual ACM SIGPLAN conference on Object-oriented programing, systems, languages, and applications},
+    series = {OOPSLA '03},
+    year = {2003},
+    pages = {115--134},
+     url = {http://doi.acm.org/10.1145/949305.949317},
+ doi = {10.1145/949305.949317},
+}
+
+@inproceedings{DBLP:conf/synasc/DraganW05,
+  author    = {Laurentiu Dragan and
+               Stephen M. Watt},
+  title     = {Performance Analysis of Generics in Scientific Computing},
+  booktitle = {SYNASC 2005: Seventh International Symposium on Symbolic and Numeric Algorithms for Scientific Computing},
+  year      = {2005},
+  pages     = {93-100},
+  ee        = {http://doi.ieeecomputersociety.org/10.1109/SYNASC.2005.56},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+   url = {http://dx.doi.org/10.1109/SYNASC.2005.56},
+ doi = {10.1109/SYNASC.2005.56},
+}
+
+
+@inproceedings{DBLP:conf/msr/CallauRTR11,
+  author    = {Oscar Calla{\'u} and
+               Romain Robbes and
+               {\'E}ric Tanter and
+               David R{\"o}thlisberger},
+  title     = {How developers use the dynamic features of programming languages:
+               the case of smalltalk},
+  booktitle = {MSR 2011: Proceedings of the 8th International Working Conference on Mining Software Repositories},
+  year      = {2011},
+  pages     = {23-32},
+  ee        = {http://doi.acm.org/10.1145/1985441.1985448},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{what_is_generics,
+  author    = {Gabriel Dos Reis and Jaakko Jarvi},
+  title     = {What is Generic Programming?},
+  booktitle = {Library-Centric Software Design LCSD'05},
+  year      = {2005},
+  pages     = {1-10},
+  ee        = {http://doi.acm.org/10.1145/1985441.1985448},
+}
+
+
+@inproceedings{Stroustrup:2007:ELR:1238844.1238848,
+ author = {Stroustrup, Bjarne},
+ title = {Evolving a language in and for the real world: C++ 1991-2006},
+ booktitle = {Proceedings of the third ACM SIGPLAN conference on History of programming languages},
+ series = {HOPL III},
+ year = {2007},
+ isbn = {978-1-59593-766-7},
+ location = {San Diego, California},
+ pages = {4-1--4-59},
+ url = {http://doi.acm.org/10.1145/1238844.1238848},
+ doi = {http://doi.acm.org/10.1145/1238844.1238848},
+ acmid = {1238848},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {C++, ISO, STL, evolution, history, language use, libraries, multi-paradigm programming, programming language, standardization},
+} 
+
+
+
+
+@inproceedings{Garcia03acomparative,
+ author = {Garcia, Ronald and Jarvi, Jaakko and Lumsdaine, Andrew and Siek, Jeremy G. and Willcock, Jeremiah},
+ title = {A comparative study of language support for generic programming},
+ booktitle = {Proceedings of the 18th annual ACM SIGPLAN conference on Object-oriented programing, systems, languages, and applications},
+ series = {OOPSLA '03},
+ year = {2003},
+ isbn = {1-58113-712-5},
+ location = {Anaheim, California, USA},
+ pages = {115--134},
+ numpages = {20},
+ url = {http://doi.acm.org/10.1145/949305.949317},
+ doi = {http://doi.acm.org/10.1145/949305.949317},
+ acmid = {949317},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {C\#, C++, Eiffel, Haskell, Java, generic programming, generics, polymorphism, standard ML},
+} 
+
+
+@article{Ryder:2005:ISE:1101815.1101818,
+ author = {Ryder, Barbara G. and Soffa, Mary Lou and Burnett, Margaret},
+ title = {The impact of software engineering research on modern programming languages},
+ journal = {ACM Trans. Softw. Eng. Methodol.},
+ volume = {14},
+ issue = {4},
+ month = {October},
+ year = {2005},
+ issn = {1049-331X},
+ pages = {431--477},
+ numpages = {47},
+ url = {http://doi.acm.org/10.1145/1101815.1101818},
+ doi = {http://doi.acm.org/10.1145/1101815.1101818},
+ acmid = {1101818},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Programming Languages, Software Engineering},
+} 
+
+
+@inproceedings{DBLP:conf/pldi/KennedyS01,
+  author    = {Andrew Kennedy and
+               Don Syme},
+  title     = {Design and Implementation of Generics for the .NET Common
+               Language Runtime},
+  booktitle = {Programming Language Design and Implementation},
+  year      = {2001},
+  pages     = {1-12},
+  ee        = {http://doi.acm.org/10.1145/378795.378797},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@article{DBLP:journals/software/ChenDMWW05,
+  author    = {Yaofei Chen and
+               Rose Dios and
+               Ali Mili and
+               Lan Wu and
+               Kefei Wang},
+  title     = {An Empirical Study of Programming Language Trends},
+  journal   = {IEEE Software},
+  volume    = {22},
+  number    = {3},
+  year      = {2005},
+  pages     = {72-78},
+  ee        = {http://doi.ieeecomputersociety.org/10.1109/MS.2005.55},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+
+@inproceedings{DBLP:conf/seke/BasitRJ05,
+  author    = {Hamid Abdul Basit and
+               Damith C. Rajapakse and
+               Stan Jarzabek},
+  title     = {An Empirical Study on Limits of Clone Unification Using
+               Generics},
+  booktitle = {SEKE'2005: Proceedings of the 17th International Conference on Software Engineering and Knowledge Engineering},
+  year      = {2005},
+  pages     = {109-114},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+
+@book{Fisher-exact-test,
+  author    = {Shirley Dowdy and Stanley Weardon and Daniel Chilko},
+  title     = {Statistics for Research, Third Edition},
+  year      = {2004},
+  publisher={Wiley-interscience}
+}
+
+
+@inproceedings{DBLP:conf/oopsla/BrachaOSW98,
+  author    = {Gilad Bracha and
+               Martin Odersky and
+               David Stoutamire and
+               Philip Wadler},
+  title     = {Making the Future Safe for the Past: Adding Genericity to
+               the Java Programming Language},
+  booktitle = {OOPSLA},
+  year      = {1998},
+  pages     = {183-200},
+  ee        = {http://doi.acm.org/10.1145/286936.286957},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@ARTICLE{herlihy:methodology,
+	AUTHOR = "Maurice Herlihy",
+	TITLE = "A Methodology for Implementing Highly Concurrent
+	Data Objects",
+	JOURNAL = {ACM Trans. Program. Lang. Syst.},
+	VOLUME = {15},
+	NUMBER = {5},
+	PAGES = {745-770},
+	MONTH = "November",
+	YEAR = {1993}	}
+
+@BOOK{Lamport:LaTeX,
+	AUTHOR = "Leslie Lamport",
+	TITLE = "LaTeX User's Guide and Document Reference Manual",
+	PUBLISHER = "Addison-Wesley Publishing Company",
+	ADDRESS = "Reading, Massachusetts",
+	YEAR = "1986"	}
+
+
+
+@BOOK{salas:calculus,
+	AUTHOR = "S.L. Salas and Einar Hille",
+	TITLE = "Calculus: One and Several Variable",
+	PUBLISHER = "John Wiley and Sons",
+	ADDRESS = "New York",
+	YEAR = "1978"	}
+
+
+
+@article{DBLP:journals/tse/KitchenhamPPJHER02,
+  author    = {Barbara Kitchenham and
+               Shari Lawrence Pfleeger and
+               Lesley Pickard and
+               Peter Jones and
+               David C. Hoaglin and
+               Khaled El Emam and
+               Jarrett Rosenberg},
+  title     = {Preliminary Guidelines for Empirical Research in Software
+               Engineering},
+  journal   = {IEEE Trans. Software Eng.},
+  volume    = {28},
+  number    = {8},
+  year      = {2002},
+  pages     = {721-734},
+  ee        = {http://www.computer.org:80/tse/ts2002/e0721abs.htm},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+
+
+@misc{jonathan_comparision2,
+  key = {Jonathan Pryor},
+  title = "{Jonathan Pryor, Comparing Java and C\# Generics}",
+  note = {\texttt{http://www.jprl.com/Blog/archive/development /2007/Aug-31.html}},
+  year = {2011}
+}
+
+@misc{var_readability,
+  key = {var type},
+  title = "{Implicitly Typed Local Variables (C\# Programming Guide)}",
+  note = {\texttt{http://msdn.microsoft.com/en-us/library/ bb384061.aspx}},
+  year = {2010}
+}
+
+
+@misc{UNKNOWN,
+  key = {Implicitly var_programming_guideTyped Local Variables},
+  title = "{Implicitly Typed Local Variables (C\# Programming Guide)}",
+  note = {\texttt{http://msdn.microsoft.com/en-us/library/bb384061.aspx}},
+  year = {2010}
+}
+
+@misc{intro_CSharp_generics,
+  key = {Juval Lowy},
+  title = "{Juval Lowy, An Introduction to C\# Generics.}",
+  note = {\texttt{http://msdn.microsoft.com/en-us/library/ ms379564\%28v=vs.80\%29.aspx}},
+  year = {2011}
+}
+
+@misc{comparision_java,
+  key = {Kirk Radeck},
+  title = "{Kirk Radeck, C\# and Java: Comparing Programming Languages}",
+  note = {\texttt{http://msdn.microsoft.com/en-us/library/ms836794.aspx}},
+  year = {October 2003}
+}
+
+@misc{IDE_exception,
+  key = {Andrew W. Troelsen},
+  title = "{Andrew W. Troelsen, Working with the C\# 2.0 Command Line Compiler}",
+  note = {\texttt{http://msdn.microsoft.com/en-US/library/ ms379563(v=VS.80).aspx}},
+  year = {2011}
+}
+
+@article{Liskov_clu,
+ author = {Liskov, Barbara and Snyder, Alan and Atkinson, Russell and Schaffert, Craig},
+ title = {Abstraction mechanisms in CLU},
+ journal = {Commun. ACM},
+ issue_date = {Aug. 1977},
+ volume = {20},
+ number = {8},
+ month = aug,
+ year = {1977},
+ issn = {0001-0782},
+ pages = {564--576},
+ numpages = {13},
+ url = {http://doi.acm.org/10.1145/359763.359789},
+ doi = {10.1145/359763.359789},
+ acmid = {359789},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {control abstractions, data abstractions, data types, programming languages, programming methodology, separate compilation},
+} 
+
+
+
+
+\bibitem{barbara_SE_2002}
+Barbara A. Kitchenham, Shari Lawrence Pfleeger and Lesley M. Pickard and Peter W. Jones and David C. Hoaglin and Khaled El Emam, "Preliminary Guidelines for Empirical Research in Software Engineering", IEEE Transactions on Software Engineering, 2002, vol 28 p721-734
+
+%\bibitem{intro_CSharp_generics}
+%Juval Lowy, An Introduction to C\# Generics. http://msdn. microsoft.com/en-us/library/ms379564%28v=vs.80%29.aspx
+
+@inproceedings{Canning:1989:FPO:99370.99392,
+ author = {Canning, Peter and Cook, William and Hill, Walter and Olthoff, Walter and Mitchell, John C.},
+ title = {F-bounded polymorphism for object-oriented programming},
+ booktitle = {Proceedings of the fourth international conference on Functional programming languages and computer architecture},
+ series = {FPCA '89},
+ year = {1989},
+ isbn = {0-89791-328-0},
+ location = {Imperial College, London, United Kingdom},
+ pages = {273--280},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/99370.99392},
+ doi = {http://doi.acm.org/10.1145/99370.99392},
+ acmid = {99392},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+@Misc{csharp_operator,
+  key = 	 {C\# Operators},
+  title = 	 {C\# Operators},
+  year = 	 {2012},
+  note = 	 {\texttt{http://msdn.microsoft.com/en-us/library/6a71f45d.aspx}},
+}
+
+@inproceedings{igarashi2001recipe,
+  title={A recipe for raw types},
+  author={Igarashi, A. and Pierce, B.C. and Wadler, P.},
+  booktitle={Proceedings of Workshop on Foundations of Object-Oriented Languages (FOOL)},
+  year={2001}
+}

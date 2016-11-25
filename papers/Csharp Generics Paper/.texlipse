@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Fri Dec 28 12:30:14 PST 2012
+markTmpDer=true
+builderNum=4
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=generics-paper-jot-journal.tex
+outputFile=paper.pdf
+langSpell=en
+markDer=true
+srcDir=

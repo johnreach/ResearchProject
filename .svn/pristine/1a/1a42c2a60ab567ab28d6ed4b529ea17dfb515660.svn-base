@@ -1,0 +1,425 @@
+% This file was created with JabRef 2.5.
+% Encoding: Cp1252
+
+@INPROCEEDINGS{basit2005empirical,
+  author = {Basit, H.A. and Rajapakse, D.C. and Jarzabek, S.},
+  title = {{An Empirical Study on Limits of Clone Unification Using Generics}},
+  booktitle = {Proceedings of the 17th International Conference on Software Engineering
+	and Knowledge Engineering},
+  year = {2005},
+  pages = {109--114}
+}
+
+@inproceedings{Emden2002Detect,
+ author = {Van Emden, E. and Moonen, L.},
+ title = {Java Quality Assurance by Detecting Code Smells},
+ booktitle = {Proceedings of the Ninth Working Conference on Reverse Engineering (WCRE'02)},
+ year = {2002},
+ pages = {97--},
+ url = {http://dl.acm.org/citation.cfm?id=882506.885134},
+ acmid = {885134},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+} 
+
+@ARTICLE{benjamini1995cfd,
+  author = {Benjamini, Y. and Hochberg, Y.},
+  title = {{Controlling the False Discovery Rate: A Practical and Powerful Approach
+	to Multiple Testing}},
+  journal = {Journal of the Royal Statistical Society. Series B (Methodological)},
+  year = {1995},
+  volume = {57},
+  pages = {289--300},
+  number = {1},
+  date-added = {2008-03-07 16:44:45 -0800},
+  date-modified = {2008-03-07 16:44:45 -0800},
+  oldkey = {benjamini1995cfd},
+  publisher = {JSTOR}
+}
+
+@BOOK{bloch2008ej,
+  title = {{Effective Java}},
+  publisher = {Prentice-Hall PTR},
+  year = {2008},
+  author = {Bloch, J.},
+  edition = {2nd}
+}
+
+@MISC{lesson,
+  author = {Gilad Bracha},
+  title = {Lesson: Generics},
+  howpublished = {Web},
+  note = {\url{http://download.oracle.com/javase/tutorial/extra/generics/index.html}}
+}
+
+@MISC{tutorial,
+  author = {Gilad Bracha},
+  title = {Generics in the Java Programming Language},
+  howpublished = {Web},
+  month = {July},
+  year = {2005},
+  note = {http://java.sun.com/j2se/1.5/pdf/generics-tutorial.pdf}
+}
+
+@ARTICLE{bracha2004generics,
+  author = {Bracha, G.},
+  title = {{Generics in the Java Programming Language}},
+  journal = {Tutorial, Sun Microsystems, Mar},
+  year = {2004}
+}
+
+@INPROCEEDINGS{donovan2004cjp,
+  author = {Donovan, Alan and Kie\v{z}un, Adam and Tschantz, Matthew S. and Ernst,
+	Michael D.},
+  title = {Converting Java Programs to Use Generic Libraries},
+  booktitle = {OOPSLA '04: Proceedings of the 19th annual ACM SIGPLAN conference
+	on Object-oriented programming, systems, languages, and applications},
+  year = {2004},
+  bdsk-url-1 = {http://doi.acm.org/10.1145/1028976.1028979},
+  doi = {http://doi.acm.org/10.1145/1028976.1028979},
+  isbn = {1-58113-831-9},
+  location = {Vancouver, BC, Canada}
+}
+
+@BOOK{dowdy2004sr,
+  title = {{Statistics for Research}},
+  publisher = {John Wiley \& Sons},
+  year = {2004},
+  author = {Shirley Dowdy and Stanley Wearden and Daniel Chilko},
+  edition = {third},
+  oldkey = {dowdy2004sfr}
+}
+
+@ARTICLE{ducheneaut2005sos,
+  author = {Ducheneaut, N.},
+  title = {{Socialization in an Open Source Software Community: A Socio-Technical
+	Analysis}},
+  journal = {Computer Supported Cooperative Work (CSCW)},
+  year = {2005},
+  volume = {14},
+  pages = {323--368},
+  number = {4},
+  date-added = {2010-12-07 00:45:18 -0800},
+  date-modified = {2010-12-07 00:45:18 -0800},
+  oldkey = {ducheneaut2005sos},
+  publisher = {Springer}
+}
+
+@ARTICLE{fuhrer2005efficiently,
+  author = {Fuhrer, R. and Tip, F. and Kie{\.z}un, A. and Dolby, J. and Keller,
+	M.},
+  title = {{Efficiently Refactoring Java Applications to Use Generic Libraries}},
+  journal = {Eurpoean Conference on Object Oriented Programming},
+  year = {2005},
+  pages = {71--96},
+  date-modified = {2010-12-07 00:47:49 -0800},
+  publisher = {Springer}
+}
+
+@INPROCEEDINGS{garcia2003comparative,
+  author = {Garcia, R. and Jarvi, J. and Lumsdaine, A. and Siek, J.G. and Willcock,
+	J.},
+  title = {{A Comparative Study of Language Support for Generic Programming}},
+  booktitle = {Proceedings of the 18th annual ACM SIGPLAN conference on Object-oriented
+	programing, systems, languages, and applications},
+  year = {2003},
+  pages = {115--134},
+  organization = {ACM}
+}
+
+@ARTICLE{geiger2006rcc,
+  author = {Geiger, Reto and Fluri, Beat and Gall, Harald and Pinzger, Martin},
+  title = {Relation of Code Clones and Change Couplings},
+  journal = {Fundamental Approaches to Software Engineering},
+  year = {2006},
+  volume = {3922},
+  pages = {411-425},
+  affiliation = {s.e.a.l. – software evolution and architecture lab, Department of
+	Informatics, University of Zurich Switzerland Switzerland},
+  editor = {Baresi, Luciano and Heckel, Reiko},
+  publisher = {Springer Berlin / Heidelberg},
+  series = {Lecture Notes in Computer Science}
+}
+
+@book{halstead,
+ author = {Halstead, Maurice H.},
+ title = {Elements of Software Science (Operating and programming systems series)},
+ year = {1977},
+ isbn = {0444002057},
+ publisher = {Elsevier Science Inc.},
+ address = {New York, NY, USA},
+} 
+
+@BOOK{Humphrey:1995,
+  title = {A Discipline for Software Engineering},
+  publisher = {Addison-Wesley Longman Publishing},
+  year = {1995},
+  author = {Humphrey, Watts S.},
+  isbn = {0201546108}
+}
+
+@MISC{intersimone,
+  author = {Davis Intersimone},
+  title = {{New Additions to the Java Language. Java One 2001 Keynote delivered
+	by James Gosling}},
+  howpublished = {Web},
+  note = {http://edn.embarcadero.com/article/27440}
+}
+
+@CONFERENCE{kennedy2001design,
+  author = {Kennedy, A. and Syme, D.},
+  title = {{Design and Implementation of Generics for the .Net Common Language
+	Runtime}},
+  booktitle = {Proceedings of the ACM SIGPLAN 2001 conference on Programming language
+	design and implementation},
+  year = {2001},
+  pages = {1--12},
+  organization = {ACM}
+}
+
+@CONFERENCE{kiezun2007refactoring,
+  author = {Kiezun, A. and Ernst, M.D. and Tip, F. and Fuhrer, R.M.},
+  title = {{Refactoring for Parameterizing Java Classes}},
+  booktitle = {Proceedings of the 29th international conference on Software Engineering},
+  year = {2007},
+  pages = {437--446},
+  organization = {IEEE Computer Society}
+}
+
+@CONFERENCE{markstrum,
+  author = {Shane Markstrum},
+  title = {Staking Claims: A History of Programming Language Design Claims and
+	Evidence},
+  booktitle = {Proceedings of the Workshop on the Evaluation and Usability of Programming
+	Languages and Tools},
+  year = {2010}
+}
+
+@ARTICLE{mockus2002two,
+  author = {Mockus, A. and Fielding, R.T. and Herbsleb, J.D.},
+  title = {{Two Case Studies of Open Source Software Development: Apache and
+	Mozilla}},
+  journal = {ACM Transactions on Software Engineering and Methodology (TOSEM)},
+  year = {2002},
+  volume = {11},
+  pages = {309--346},
+  number = {3},
+  date-added = {2010-12-07 00:42:57 -0800},
+  date-modified = {2010-12-07 00:42:57 -0800},
+  issn = {1049-331X},
+  publisher = {ACM}
+}
+
+@CONFERENCE{monden2002software,
+  author = {Monden, A. and Nakae, D. and Kamiya, T. and Sato, S. and Matsumoto,
+	K.},
+  title = {{Software Quality Analysis by Code Clones in Industrial Legacy Software}},
+  booktitle = {Proceedings of the 8th International Symposium on Software Metrics},
+  year = {2002},
+}
+
+@BOOK{naftalin2006java,
+  title = {{Java generics and collections}},
+  publisher = {O'Reilly Media, Inc.},
+  year = {2006},
+  author = {Naftalin, M. and Wadler, P.}
+}
+
+@ARTICLE{omahony2007emergence,
+  author = {Siobhan O'Mahony and Fabrizio Ferraro},
+  title = {The Emergence of Governance in an Open Source Community},
+  journal = {Academy of Management Journal},
+  year = {2007},
+  volume = {50},
+  pages = {1079--1106},
+  number = {5},
+  date-added = {2010-12-07 00:38:57 -0800},
+  date-modified = {2010-12-07 00:42:52 -0800}
+}
+
+@ARTICLE{torgersen2004expression,
+  author = {Torgersen, M.},
+  title = {{The Expression Problem Revisited}},
+  journal = {European Conference on Object Oriented Programming},
+  year = {2004},
+  pages = {1--44},
+  publisher = {Springer}
+}
+
+@BOOK{vandevoorde2003c++,
+  title = {{C++ templates: the Complete Guide}},
+  publisher = {Addison-Wesley Professional},
+  year = {2003},
+  author = {Vandevoorde, D. and Josuttis, N.M.}
+}
+
+@INPROCEEDINGS{zimmermann2006apfel,
+  author = {Thomas Zimmermann},
+  title = {{Fine-grained Processing of CVS Archives with APFEL}},
+  booktitle = {Proceedings of the OOPSLA Workshop on Eclipse Technology eXchange},
+  year = {2006},
+  publisher = {ACM Press},
+}
+
+@MISC{apache_foundation,
+  title = {{How the ASF works}},
+  howpublished = {Web},
+  note = {http://www.apache.org/foundation/how-it-works.html}
+}
+
+@MISC{python_voting,
+  title = {{Python Voting Guidelines}},
+  howpublished = {Web},
+  note = {http://www.python.org/dev/peps/pep-0010}
+}
+
+@MISC{annotation_tutorial,
+  key = {aa},
+  title = {{The Java Tutorials: Annotations}},
+  howpublished = {Web},
+  note = {\url{http://download.oracle.com/javase/tutorial/java/javaOO/annotations.html}}
+}
+
+@MISC{annotation_webservice,
+  title = {{JavaTM API for XML Web Services: Annotations}},
+  howpublished = {Web},
+  note = {http://jax-ws.java.net/jax-ws-ea3/docs/annotations.html}
+}
+
+@MISC{annotation_guide,
+  key = {aa},
+  title = {{Java Language Guide: Annotations}},
+  howpublished = {Web},
+  note = {\url{http://download.oracle.com/javase/1.5.0/docs/guide/language/annotations.html}}
+}
+
+@MISC{annotation_interview,
+  key = {aa},
+  title = {{The Advantages of the Java EE 5 Platform: A Conversation with Distinguished Engineer Bill Shannon}},
+  howpublished = {Web},
+  note = {\url{http://java.sun.com/developer/technicalArticles/Interviews/shannon\_qa.html}}
+}
+
+@techreport{pankratius2009does,
+  title={{Does Transactional Memory Keep Its Promises?: Results from an Empirical Study}},
+  author={Pankratius, V. and Adl-Tabatabai, A.R. and Otto, F.},
+  year={2009},
+  institution={Universit{\"a}t Karlsruhe, Fakult{\"a}t f{\"u}r Informatik},
+  number={2009-12}
+}
+
+@inproceedings{parnin11,
+ author = {Parnin, Chris and Bird, Christian and Murphy-Hill, Emerson},
+ title = {Java Generics Adoption: How New Features are Introduced, Championed, or Ignored},
+ booktitle = {Proceedings of the 8th working Conference on Mining software repositories},
+ series = {MSR '11},
+ year = {2011},
+ isbn = {978-1-4503-0574-7},
+ location = {Waikiki, Honolulu, HI, USA},
+ pages = {3--12},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/1985441.1985446},
+ doi = {http://doi.acm.org/10.1145/1985441.1985446},
+ acmid = {1985446},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {generics, java, languages, post-mortem analysis},
+} 
+
+@article{flanagan,
+ author = {Flanagan, Cormac and Leino, K. Rustan M. and Lillibridge, Mark and Nelson, Greg and Saxe, James B. and Stata, Raymie},
+ title = {Extended Static Checking for Java},
+ journal = {SIGPLAN Not.},
+ volume = {37},
+ issue = {5},
+ month = {May},
+ year = {2002},
+ issn = {0362-1340},
+ pages = {234--245},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/543552.512558},
+ doi = {http://doi.acm.org/10.1145/543552.512558},
+ acmid = {512558},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {compile-time program checking},
+} 
+
+@inproceedings{papi,
+ author = {Papi, Matthew M. and Ali, Mahmood and Correa,Jr., Telmo Luis and Perkins, Jeff H. and Ernst, Michael D.},
+ title = {Practical Pluggable Types for Java},
+ booktitle = {Proceedings of the 2008 international symposium on Software testing and analysis},
+ series = {ISSTA '08},
+ year = {2008},
+ isbn = {978-1-60558-050-0},
+ location = {Seattle, WA, USA},
+ pages = {201--212},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/1390630.1390656},
+ doi = {http://doi.acm.org/10.1145/1390630.1390656},
+ acmid = {1390656},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {annotation, bug finding, case study, compiler, flow sensitivity, igj, immutable, intern, java, javac, javari, nonnull, pluggable type, polymorphism, readonly, type qualifier, type system, verification},
+} 
+
+@inproceedings{shi,
+ author = {Shi, Lin and Zhong, Hao and Xie, Tao and Li, Mingshu},
+ title = {An Empirical Study on Evolution of API Documentation},
+ booktitle = {Proceedings of the 14th International Conference on Fundamental Approaches to software engineering: part of the joint European conferences on theory and practice of software},
+ series = {FASE'11/ETAPS'11},
+ year = {2011},
+ isbn = {978-3-642-19810-6},
+ location = {Saarbr\&\#252;cken, Germany},
+ pages = {416--431},
+ numpages = {16},
+ url = {http://dl.acm.org/citation.cfm?id=1987434.1987473},
+ acmid = {1987473},
+ publisher = {Springer-Verlag},
+ address = {Berlin, Heidelberg},
+} 
+
+@inproceedings{liebig,
+ author = {Liebig, J\"{o}rg and K\"{a}stner, Christian and Apel, Sven},
+ title = {Analyzing the Discipline of Preprocessor Annotations in 30 Million Lines of C Code},
+ booktitle = {Proceedings of the tenth international conference on Aspect-oriented software development},
+ series = {AOSD '11},
+ year = {2011},
+ isbn = {978-1-4503-0605-8},
+ location = {Porto de Galinhas, Brazil},
+ pages = {191--202},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/1960275.1960299},
+ doi = {http://doi.acm.org/10.1145/1960275.1960299},
+ acmid = {1960299},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {conditional compilation, crosscutting concerns, ifdef, preprocessor, virtual separation of concerns},
+} 
+
+@inproceedings{storey,
+ author = {Storey, Margaret-Anne and Ryall, Jody and Bull, R. Ian and Myers, Del and Singer, Janice},
+ title = {TODO or to Bug: Exploring How Task Annotations Play a Role in the Work Practices of Software Developers},
+ booktitle = {Proceedings of the 30th international conference on Software engineering},
+ series = {ICSE '08},
+ year = {2008},
+ isbn = {978-1-60558-079-1},
+ location = {Leipzig, Germany},
+ pages = {251--260},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/1368088.1368123},
+ doi = {http://doi.acm.org/10.1145/1368088.1368123},
+ acmid = {1368123},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {source code comments, task annotations, work practices},
+} 
+
+@book{Halstead:1977:ESS:540137,
+ author = {Halstead, Maurice H.},
+ title = {Elements of Software Science (Operating and Programming Systems Series)},
+ year = {1977},
+ isbn = {0444002057},
+ publisher = {Elsevier Science Inc.},
+ address = {New York, NY, USA},
+} 

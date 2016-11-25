@@ -1,0 +1,72 @@
+\begin{thebibliography}{10}
+
+\bibitem{basit2005empirical}
+H.~Basit, D.~Rajapakse, and S.~Jarzabek.
+\newblock {An empirical study on limits of clone unification using generics}.
+\newblock In {\em Proceedings of the 17th International Conference on Software
+  Engineering and Knowledge Engineering}, pages 109--114, 2005.
+
+\bibitem{bloch2008ej}
+J.~Bloch.
+\newblock {\em {Effective Java}}.
+\newblock Prentice-Hall PTR, second edition, 2008.
+
+\bibitem{bracha2004generics}
+G.~Bracha.
+\newblock {Generics in the Java programming language}.
+\newblock {\em Tutorial, Sun Microsystems, Mar}, 2004.
+
+\bibitem{donovan2004cjp}
+A.~Donovan, A.~Kie\v{z}un, M.~S. Tschantz, and M.~D. Ernst.
+\newblock Converting java programs to use generic libraries.
+\newblock In {\em OOPSLA '04: Proceedings of the 19th annual ACM SIGPLAN
+  conference on Object-oriented programming, systems, languages, and
+  applications}, pages 15--34, New York, NY, USA, 2004. ACM.
+
+\bibitem{fuhrer2005efficiently}
+R.~Fuhrer, F.~Tip, A.~Kie{\.z}un, J.~Dolby, and M.~Keller.
+\newblock {Efficiently refactoring Java applications to use generic libraries}.
+\newblock {\em ECOOP 2005-Object-Oriented Programming}, pages 71--96.
+
+\bibitem{garcia2003comparative}
+R.~Garcia, J.~Jarvi, A.~Lumsdaine, J.~Siek, and J.~Willcock.
+\newblock {A comparative study of language support for generic programming}.
+\newblock In {\em Proceedings of the 18th annual ACM SIGPLAN conference on
+  Object-oriented programing, systems, languages, and applications}, pages
+  115--134. ACM, 2003.
+
+\bibitem{halstead}
+M.~H. Halstead.
+\newblock Natural laws controlling algorithm structure?
+\newblock {\em SIGPLAN Notices}, 7(2):19--26, 1972.
+
+\bibitem{kennedy2001design}
+A.~Kennedy and D.~Syme.
+\newblock {Design and implementation of generics for the. net common language
+  runtime}.
+\newblock In {\em Proceedings of the ACM SIGPLAN 2001 conference on Programming
+  language design and implementation}, pages 1--12. ACM, 2001.
+
+\bibitem{kiezun2007refactoring}
+A.~Kiezun, M.~Ernst, F.~Tip, and R.~Fuhrer.
+\newblock {Refactoring for parameterizing Java classes}.
+\newblock In {\em Proceedings of the 29th international conference on Software
+  Engineering}, pages 437--446. IEEE Computer Society, 2007.
+
+\bibitem{naftalin2006java}
+M.~Naftalin and P.~Wadler.
+\newblock {\em {Java generics and collections}}.
+\newblock O'Reilly Media, Inc., 2006.
+
+\bibitem{torgersen2004expression}
+M.~Torgersen.
+\newblock {The expression problem revisited}.
+\newblock {\em European Conference on Object Oriented Programming}, pages
+  1--44, 2004.
+
+\bibitem{vandevoorde2003c++}
+D.~Vandevoorde and N.~Josuttis.
+\newblock {\em {C++ templates: the Complete Guide}}.
+\newblock Addison-Wesley Professional, 2003.
+
+\end{thebibliography}
